@@ -1,0 +1,9 @@
+#Vamos ignorar todos os dados
+.data/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
