@@ -1,0 +1,16 @@
+- Python 3.9
+
+step01.py
+
+Para cada pasta de coleta, fazemos uma cópia cujo sufixo é '-prettified'
+
+Cada arquivo pode ter mais de uma linha. Cada linha parece representar um objeto de json. Então criamos arquivos distintos para cada linha/objeto.
+
+Por exemplo, se o arquivo genocida202003.jsonl tem três linhas, produzimos em 'coleta--prettified':
+
+genocida202003_n_00001.json
+genocida202003_n_00002.json
+genocida202003_n_00003.json
+
+
+
